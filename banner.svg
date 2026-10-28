@@ -48,8 +48,8 @@
   </path>
 
   <!-- title -->
-  <text x="450" y="115" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" font-weight="700" fill="#c94f80" letter-spacing="1">YOUR NAME</text>
-  <text x="450" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#8a5a72" letter-spacing="4">BALERINA  ✦  PENULIS FANTASI  ✦  CALON ENGINEER</text>
+  <text x="450" y="115" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-style="italic" font-weight="700" fill="#c94f80" letter-spacing="1">Saviara Aluna</text>
+  <text x="450" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#8a5a72" letter-spacing="4">BALERINA  ✦  PENULIS NOVEL  ✦  SISWI RPL</text>
   <text x="450" y="182" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#a77a92">tirai terangkat di setiap baris kode</text>
 
   <!-- twinkling sparkles -->
