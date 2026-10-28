@@ -25,7 +25,9 @@
 
 </div>
 
-## 🎭 Babak I — Si Penari & Si Pemimpi
+<p align="center">
+  <img src="./title-1.svg" alt="Babak I - Si Penari & Si Pemimpi" width="100%"/>
+</p>
 
 > *"Never take something as true just because you've heard, read, or seen it once."*
 
@@ -41,7 +43,9 @@ Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku meraju
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
-## 🎀 Babak II — Repertoar (Tech Stack)
+<p align="center">
+  <img src="./title-2.svg" alt="Babak II - Repertoar (Tech Stack)" width="100%"/>
+</p>
 
 <div align="center">
 
@@ -58,7 +62,9 @@ Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku meraju
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
-## 📜 Babak III — Naskah
+<p align="center">
+  <img src="./title-3.svg" alt="Babak III - Naskah" width="100%"/>
+</p>
 
 - ✒️ **Wattpad:** [Saviara Aluna / Nonaluna](https://www.wattpad.com/)
 - 🌹 **Sedang ditulis:** *The Vacant Crown* & *Petel Heart* (Para Lele & Harteu wajib merapat!)
@@ -66,7 +72,9 @@ Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku meraju
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
-## 🌸 Intermission — Proyek Pilihan
+<p align="center">
+  <img src="./title-4.svg" alt="Intermission - Proyek Pilihan" width="100%"/>
+</p>
 
 | Proyek | Tentang apa | Stack |
 |---|---|---|
@@ -75,7 +83,9 @@ Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku meraju
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
-## 📊 Catatan Latihan
+<p align="center">
+  <img src="./title-5.svg" alt="Catatan Latihan" width="100%"/>
+</p>
 
 <div align="center">
 
@@ -86,7 +96,9 @@ Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku meraju
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
-## 💌 Curtain Call — Hubungi Aku
+<p align="center">
+  <img src="./title-6.svg" alt="Curtain Call - Hubungi Aku" width="100%"/>
+</p>
 
 <div align="center">
 
