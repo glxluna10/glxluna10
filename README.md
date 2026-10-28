@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Banner profil" width="100%"/>
+<img src="./banner.svg" alt="Banner profil" width="100%"/>
 
 <br/>
 
@@ -21,7 +21,7 @@
 <br/>
 <sub><i>psst... klik dulu, lalu balik ke sini dan baca sisanya sambil ditemani musik 🎶</i></sub>
 
-<img src="./assets/divider.svg" alt="" width="100%"/>
+<img src="./divider.svg" alt="" width="100%"/>
 
 </div>
 
@@ -39,7 +39,7 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 | 💻 **Di studio** | Belajar bikin hal yang enak dipakai sekaligus cantik dilihat |
 | 🌙 **Lagi dikerjakan** | _(tulis apa yang sedang kamu kerjakan sekarang)_ |
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
 ## 🎀 Babak II — Repertoar (Tech Stack)
 
@@ -56,7 +56,7 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
 ## 📜 Babak III — Naskah
 
@@ -64,7 +64,7 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 - 🌹 **Sedang ditulis:** _judul / sinopsis satu kalimat_
 - 🗝️ **Genre:** fantasi, romansa, sedikit patah hati
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
 ## 🌸 Intermission — Proyek Pilihan
 
@@ -73,7 +73,7 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 | [**proyek-satu**](https://github.com/USERNAME/proyek-satu) | satu kalimat tentang proyek ini | `HTML` `CSS` |
 | [**proyek-dua**](https://github.com/USERNAME/proyek-dua) | satu kalimat tentang proyek ini | `Python` |
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
 ## 📊 Catatan Latihan
 
@@ -84,7 +84,7 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" alt="" width="100%"/></div>
+<div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
 ## 💌 Curtain Call — Hubungi Aku
 
@@ -96,6 +96,6 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 <br/><br/>
 
-<img src="./assets/banner-footer.svg" alt="Terima kasih sudah mampir" width="100%"/>
+<img src="./banner-footer.svg" alt="Terima kasih sudah mampir" width="100%"/>
 
 </div>
