@@ -4,13 +4,13 @@
 
 <br/>
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/glxluna10">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&italic=true&size=20&duration=3200&pause=1200&color=C94F80&center=true&vCenter=true&width=640&lines=Menari+di+antara+bug+dengan+sepatu+pointe+%F0%9F%A9%B0;Menulis+dunia+tempat+sihir+bisa+di-compile+%E2%9C%A8;Belajar+Rekayasa+Perangkat+Lunak%2C+satu+babak+demi+satu+babak" alt="animasi mengetik"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PENONTON&color=f9a8c4&style=for-the-badge" alt="penonton"/>
+<img src="https://komarev.com/ghpvc/?username=glxluna10&label=PENONTON&color=f9a8c4&style=for-the-badge" alt="penonton"/>
 <img src="https://img.shields.io/badge/LAGI%20TAYANG-Rekayasa%20Perangkat%20Lunak-e0679a?style=for-the-badge" alt="lagi tayang"/>
 
 <br/><br/>
@@ -27,17 +27,17 @@
 
 ## 🎭 Babak I — Si Penari & Si Pemimpi
 
-> *"Ganti dengan satu kalimat yang benar-benar kamu pegang."*
+> *"Never take something as true just because you've heard, read, or seen it once."*
 
-Hai, aku **NAMAMU**. Seorang balerina yang sadar bahwa pirouette dan algoritma itu ternyata mirip: butuh latihan, kesabaran, dan jatuh beberapa kali sebelum akhirnya terlihat mulus.
-Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku membangun dunia fantasi di **Wattpad**.
+Hai, aku **Saviara Aluna** (atau biasa dipanggil jiejie Luna). Seorang siswi RPL yang bermimpi anggun bagai balerina, menyadari bahwa *pirouette* dan algoritma itu mirip: butuh latihan, kesabaran, dan jatuh berkali-kali sebelum akhirnya mulus.
+Siang hari aku bergulat dengan kode di SMK Swasta Mandiri, malam hari aku merajut dunia fantasi di Wattpad.
 
 | | |
 |---|---|
-| 🩰 **Di atas panggung** | Balet, sepatu pointe, semua serba pink lembut |
-| 📖 **Di balik layar** | Cerita fantasi, worldbuilding, plot twist tengah malam |
-| 💻 **Di studio** | Belajar bikin hal yang enak dipakai sekaligus cantik dilihat |
-| 🌙 **Lagi dikerjakan** | _(tulis apa yang sedang kamu kerjakan sekarang)_ |
+| 🩰 **Di atas panggung** | Balet impian, sepatu *pointe*, estetika *soft pink* |
+| 📖 **Di balik layar** | Menulis novel *The Vacant Crown* & *Petel Heart* |
+| 💻 **Di studio** | Belajar HTML, CSS, JavaScript, PHP, & MySQL |
+| 🌙 **Lagi dikerjakan** | Proyek game *Memory Corruption* & *Venus Aegis* |
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
@@ -48,11 +48,11 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 <img src="https://img.shields.io/badge/HTML5-f9a8c4?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-f48fb1?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-e0679a?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-c9a9e6?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-b794d9?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-c9a9e6?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-b794d9?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-f3a6c0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<sub><i>ganti dengan tools yang benar-benar kamu pakai</i></sub>
+<sub><i>Senjata utama merakit kode & cerita</i></sub>
 
 </div>
 
@@ -60,9 +60,9 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 ## 📜 Babak III — Naskah
 
-- ✒️ **Wattpad:** [baca ceritaku](https://www.wattpad.com/user/USERNAME_WATTPAD)
-- 🌹 **Sedang ditulis:** _judul / sinopsis satu kalimat_
-- 🗝️ **Genre:** fantasi, romansa, sedikit patah hati
+- ✒️ **Wattpad:** [Saviara Aluna / Nonaluna](https://www.wattpad.com/)
+- 🌹 **Sedang ditulis:** *The Vacant Crown* & *Petel Heart* (Para Lele & Harteu wajib merapat!)
+- 🗝️ **Genre:** High Fantasy, Dark Romance, Coming-of-age
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
@@ -70,8 +70,8 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 | Proyek | Tentang apa | Stack |
 |---|---|---|
-| [**proyek-satu**](https://github.com/USERNAME/proyek-satu) | satu kalimat tentang proyek ini | `HTML` `CSS` |
-| [**proyek-dua**](https://github.com/USERNAME/proyek-dua) | satu kalimat tentang proyek ini | `Python` |
+| [**Memory Corruption**](https://github.com/glxluna10) | Game web interaktif sekolah bernuansa cerita & *hacker* | `HTML` `CSS` `JS` |
+| [**Venus Aegis**](https://github.com/glxluna10) | Rencana jangka panjang web fantasi & software | `PHP` `MySQL` |
 
 <div align="center"><img src="./divider.svg" alt="" width="100%"/></div>
 
@@ -79,8 +79,8 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=c94f80&text_color=7a5568&icon_color=f48fb1&ring_color=e0679a"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=fff5f8&title_color=c94f80&text_color=7a5568"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=glxluna10&show_icons=true&hide_border=true&bg_color=fff5f8&title_color=c94f80&text_color=7a5568&icon_color=f48fb1&ring_color=e0679a"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glxluna10&layout=compact&hide_border=true&bg_color=fff5f8&title_color=c94f80&text_color=7a5568"/>
 
 </div>
 
@@ -90,9 +90,9 @@ Siang hari aku belajar **Rekayasa Perangkat Lunak (RPL)**, malam hari aku memban
 
 <div align="center">
 
-<a href="mailto:EMAILMU"><img src="https://img.shields.io/badge/Email-f48fb1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/IG_MU"><img src="https://img.shields.io/badge/Instagram-e0679a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.wattpad.com/user/USERNAME_WATTPAD"><img src="https://img.shields.io/badge/Wattpad-c9a9e6?style=for-the-badge&logo=wattpad&logoColor=white"/></a>
+<a href="mailto:saga120310@gmail.com"><img src="https://img.shields.io/badge/Email-f48fb1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/glxluna10"><img src="https://img.shields.io/badge/Instagram-e0679a?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.wattpad.com/"><img src="https://img.shields.io/badge/Wattpad-c9a9e6?style=for-the-badge&logo=wattpad&logoColor=white"/></a>
 
 <br/><br/>
 
